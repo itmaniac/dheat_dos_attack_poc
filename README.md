@@ -1,5 +1,5 @@
 # D(H)eat DoS Attack POC (CVE-2002-20001)
-POC for Testing the Existence of D(HE)at DOS Attack for (CVE-2002-20001)
+POC for Testing the Existence of D(HE)at DOS Attack for (CVE-2002-20001) in SSH Service
 
 
 # Usage
